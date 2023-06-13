@@ -1,0 +1,20 @@
+# 忽略Windows和macOS系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略Unity3D自动生成的文件
+Temp/
+Obj/
+Build/
+*.apk
+*.unitypackage
+
+# 忽略Visual Studio Code的配置文件
+.vscode/
+*.sln
+*.csproj
+
+# 忽略一些生成的资源和日志文件
+Library/
+Logs/
+*.log
