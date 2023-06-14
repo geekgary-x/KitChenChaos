@@ -18,3 +18,5 @@ Build/
 Library/
 Logs/
 *.log
+
+.vs
